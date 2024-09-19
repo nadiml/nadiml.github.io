@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-! [profile photo] (/images/Nadim.jpg)
-
 ## About Me
 
 I am Nadim Ahmed, a research fellow at the University of Dhaka. My research focuses on learning and data-driven control, physics-informed reinforcement learning (PIRL), and robustness and safety in AI.
