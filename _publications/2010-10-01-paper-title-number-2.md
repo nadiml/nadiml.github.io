@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Solving Higher-Order Boundary Value Problems Utilizing HOPE Instead of Automatic Differentiation in Physics-Informed Neural Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
