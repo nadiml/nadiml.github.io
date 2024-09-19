@@ -16,6 +16,23 @@ I am Nadim Ahmed, lecturer at Independent University, Bangladesh and research fe
 - Physics-informed reinforcement learning (PIRL)
 - Robustness and safety in AI
 
+### RESEARCH EXPERIENCE
+   **Research Fellow**                                                                                                               April, 2022-Present
+    Bose Center for Advance Study and Research in Natural Sciences,
+    University of Dhaka, Dhaka, Bangladesh
+    Project: Numerical Investigation of Velocity Distribution 
+                  and other Characteristics of Turbulent Flow through 
+                  Rigid Vegetation with Varying Conditions in an Open Channel.
+   
+   **Research Associate**                                                                                                          May, 2023-Present
+     Department of Applied Mathematics, University of Dhaka                           
+    Research Project: Machine Learning Approach to Predict 
+                                Patient-specific Hemodynamics in Aorta with Branches.
+   
+   Project Funding: University Grand Commission (UGC) Research Grant (2022-2023) 
+   Advisor: Dr. Zavid Iqbal Bangalee
+
+
 ### Education:
 - **MS in Applied Mathematics, University of Dhaka**, 2019 (Exam held in 2021)
 - **BS in Applied Mathematics, University of Dhaka**, 2018 (Exam held in 2019)
