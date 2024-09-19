@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " Welcome to Nadim ahmed' website / Site Title"
+title                    : " Welcome to Nadim ahmed' website"
 title_separator          : "-"
-name                     : &name "Nadim ahmed"
-description              : &description "Research Fellow at the University of Dhaka, specializing in learning and data-driven control, physics-informed reinforcement learning, and robustness and safety in AI"
+name                     : "Nadim ahmed"
+description              : "Research Fellow at the University of Dhaka, specializing in learning and data-driven control, physics-informed reinforcement learning, and robustness and safety in AI"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
