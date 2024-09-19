@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am Nadim Ahmed, a research fellow at the University of Dhaka. My research focuses on learning and data-driven control, physics-informed reinforcement learning (PIRL), and robustness and safety in AI.
+I am Nadim Ahmed, lecturer at Independent University, Bangladesh and research fellow at the University of Dhaka. My research interests gradually evolved from computational fluid dynamics (CFD) to scientific machine learning (SciML). The past decade has witnessed phenomenal growth in Artificial Intelligence (AI), yet its real-world implementation demands robustness and safety. Addressing these challenges in unstructured environments might be achieved by exploiting learning and data-driven control. With a background in Applied Mathematics and research experience in CFD simulation, physics-informed neural networks (PINNs), and deep operator networks (DeepONets), I can hardly wait to delve into and contribute to the emerging mythologies in learning and data-driven control.
 
 ### Research Interests:
 - Learning and data-driven control
@@ -17,9 +17,9 @@ I am Nadim Ahmed, a research fellow at the University of Dhaka. My research focu
 - Robustness and safety in AI
 
 ### Education:
-- **M.S. in Applied Mathematics** (University of Dhaka, 2019)
-- **B.Sc. in Applied Mathematics** (University of Dhaka, 2018)
-
+- **MS in Applied Mathematics, University of Dhaka**, 2019 (Exam held in 2021)
+- **BS in Applied Mathematics, University of Dhaka**, 2018 (Exam held in 2019)
+- **HSC in Science, Notre Dame College, Dhaka,** 2013
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
