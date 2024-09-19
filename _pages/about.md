@@ -17,7 +17,7 @@ I am Nadim Ahmed, lecturer at Independent University, Bangladesh and research fe
 - Robustness and safety in AI
 
 ### RESEARCH EXPERIENCE
-   -**Research Fellow** 
+   #**Research Fellow** 
    ---------------
     (April, 2022-Present)
     Bose Center for Advance Study and Research in Natural Sciences,
@@ -26,7 +26,7 @@ I am Nadim Ahmed, lecturer at Independent University, Bangladesh and research fe
                   and other Characteristics of Turbulent Flow through 
                   Rigid Vegetation with Varying Conditions in an Open Channel.
    
-   -**Research Associate**  
+   #**Research Associate**  
    ---------------------
      May, 2023-Present
      Department of Applied Mathematics, University of Dhaka                           
