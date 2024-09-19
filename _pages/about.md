@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-! [profile photo] (/assets/images/Nadim.jpg)
+! [profile photo] (/images/Nadim.jpg)
 
 ## About Me
 
