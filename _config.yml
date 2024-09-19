@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "https://raw.githubusercontent.com/nadiml/nadiml.github.io/master/images/Nadim.png"
   name             : "Nadim Ahmed"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Intelligent Machine Inventor"
   location         : "Dhaka, Bangladesh"
   employer         : "Independent University"
