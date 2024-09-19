@@ -21,7 +21,7 @@ repository               : "https://github.com/nadiml/nadiml.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/nadiml/nadiml.github.io/blob/master/images/Nadim.jpg"
+  avatar           : "https://github.com/nadiml/nadiml.github.io/blob/master/images/Nadim.png"
   name             : "Nadim Ahmed"
   pronouns         : # example: "he/his"  
   bio              : "Intelligent Machine Inventor"
