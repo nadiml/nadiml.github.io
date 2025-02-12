@@ -2,7 +2,7 @@
 title: "Solving Higher-Order Boundary Value Problems Utilizing HOPE Instead of Automatic Differentiation in Physics-Informed Neural Networks"
 collection: publications
 category: manuscripts
-permalink: 
+permalink: publications/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 
 venue: 'Mathematics, 2024, ready to submit.'
