@@ -1,6 +1,6 @@
 ---
 title: "Numerical Simulation of Discontinuously Vegetated Open Channel Flow to Estimate Effects of Vegetation Condition on Flood Mitigation"
-collection: American Society of Civil Engineers (ASCE)
+collection: publications
 category: Prepring manuscripts
 permalink: /publication/10.22541/au.168274985.51497128/v1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
