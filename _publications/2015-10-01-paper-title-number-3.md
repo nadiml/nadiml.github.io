@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts 
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 
+date:  '2025-01-05'
 venue: 'Nonlinear Dynamics, 2024, ready to submit.'
 slidesurl:
 paperurl: 
