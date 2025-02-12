@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: publications/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 
+date: '2025-2-08'
 venue: 'Mathematics, 2024, ready to submit.'
 slidesurl:
 paperurl: 
