@@ -7,15 +7,11 @@
 main:
   - title: "Publications"
     url: /publications/
-
- - title: "Research"
-   url: /markdown/
-
+  - title: "Research"
+    url: /markdown/
   - title: "Teaching"
-    url: /teaching/ 
-
+    url: /teaching/
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/
   - title: "Blog Posts"
     url: /year-archive/
