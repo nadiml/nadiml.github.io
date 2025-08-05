@@ -1,15 +1,13 @@
 ---
-title: "Comparative study on scientific machine learning methods to solve nonlinear jerk 
-     equation"
+title: "Paper Title Number 3"
 collection: publications
-category: manuscripts 
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date:  '2025-01-05'
-venue: 'Nonlinear Dynamics, 2024, ready to submit.'
-slidesurl:
-paperurl: 
-citation:
+category: Under-Review
+permalink: /publication/2015-10-01-paper-title-number-3/
+date: 2015-10-01
+venue: "Journal or Conference Name"
+paperurl: ""
+citation: "Full citation as written in CV."
+excerpt: "Optional short summary."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Full text coming soon.
