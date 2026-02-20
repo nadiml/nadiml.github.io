@@ -1,7 +1,7 @@
 ---
 title: "PiPC-Net: A Physics-informed Piecewise Continuity Network for Solving the Non-linear Jerk Equation"
 collection: publications
-category: Journal Articles
+category: Journal
 permalink: /publication/2025-01-01-pipc-net-physics-informed-piecewise-continuity-network/
 date: 2025-01-01
 venue: "Engineering"
