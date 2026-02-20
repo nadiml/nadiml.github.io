@@ -6,7 +6,7 @@ permalink: /publication/2025-11-01-pitnet-physics-informed-trajectory-network/
 date: 2025-11-01
 venue: "ICONIP 2025, OIST, Japan"
 paperurl: ""
-citation: "Ahmed, N., Babu, M. A., Mollah, M.M.H., M. A., Ahmmed, M. M., Rahman, M. M.& Mahmud, M. (2025). PITNet: Physics-Informed Trajectory Network for smooth 7-DoF robotic arm trajectories in dynamic environments. In ICONIP 2025, OIST, Japan. [Submitted]"
+citation: "Ahmed, N., Babu, M. A., Mollah, M.M.H., M. A., Ahmmed, M. M., Rahman, M. M.& Mahmud, M. (2025). PITNet: Physics-Informed Trajectory Network for smooth 7-DoF robotic arm trajectories in dynamic environments. In ICONIP 2025, OIST, Japan. [Accepted]"
 excerpt: "Submitted to ICONIP 2025, OIST, Japan."
 authors: "Ahmed, N., Babu, M. A., Mollah, M.M.H., M. A., Ahmmed, M. M., Rahman, M. M.& Mahmud, M."
 thumbnail: "pitnet-robotic-arm.png"
